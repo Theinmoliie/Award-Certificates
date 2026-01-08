@@ -1,5 +1,5 @@
 # Award-Certificates
-This repository displays the certificates of the awards won by SkinSafe project
+This repository displays the certificates for the awards won by SkinSafe project
 
 - **TOP 5 AWARDS (STARTUP INNOVATION)**  
   Event: MALAYSIA STARTUP CHALLENGE 2025  
