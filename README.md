@@ -14,7 +14,7 @@ This repository displays the certificates for the awards won by SkinSafe project
   - **GOLD MEDAL (TERTIARY-STARTUP INNOVATION)**  
   Event: MALAYSIA STARTUP CHALLENGE 2025  
   Year: 2025 
-  [View Certificate]([./google-data-analytics.pdf](https://drive.google.com/file/d/1frmKo3P_NkJAtWqhSmZMnFab1Ih0Cczz/view?usp=sharing))
+  [View Certificate](https://drive.google.com/file/d/1frmKo3P_NkJAtWqhSmZMnFab1Ih0Cczz/view)
 
   - **GOLD MEDAL (TERTIARY (SCIENCE AND TECHNOLOGY))**  
   Event: VIRTUAL INNOVATION COMPETITION 2024  
